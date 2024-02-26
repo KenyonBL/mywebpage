@@ -54,11 +54,12 @@ th {
 }
 
 img {
-    max-width: 100%;
+    max-width: 70%;
     height: auto;
     display: block;
     margin: 20px auto;
 }
+
 aside {
   width: 150px;
   background-color: #333;
